@@ -12,7 +12,7 @@
 3. **Page 2:** Set your mission duration (e.g., 15 days).
 4. **Page 3:** Select the modules/locations you will be active in (e.g., Harmony Module, Kibo).
 5. **Page 4:** Select the specific metrics you want the app to remind you to log (e.g., Body Mass, Nutrition). Set your preferred alarm time.
-6. **Page 5:** Click **START** to begin Day 0 of the mission.
+6. **Page 5:** Click **START** to begin Day 0 of the mission - which is the pre-mission state.
 
 ### Step 3: Uploading Data
 1. From the Dashboard, click the **Settings** icon (top left).
