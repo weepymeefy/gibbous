@@ -92,11 +92,11 @@ Here is the comprehensive structure of the data handled by Gibbous, including th
 
 ## How to Run (For Judges)
 
-We have compiled the application into a standalone Windows executable for testing purposes.
+We have compiled the application into a standalone Windows executable for easy testing.
 
-1. Go to the **"Releases"** tab on the right side of this GitHub repository.
-2. Download the `Gibbous_Windows_Release.zip` file.
-3. Extract the ZIP file to a folder on your computer. (Ensure the executable and the accompanying data folder are extracted together).
+1. Go to the **[Releases Page](https://github.com/weepymeeefy/gibbous/releases/tag/v1.0.0)**.
+2. Download the `Gibbous_Windows_Release.zip` file from the "Assets" section.
+3. Extract the ZIP file to a folder on your computer. (Ensure the executable and the accompanying `data` folder are extracted together).
 4. Double-click `gibbous.exe` to launch the app. 
 
 *(Note: The AI API key is pre-configured in this build, so the AI features will function immediately).*
@@ -105,11 +105,13 @@ We have compiled the application into a standalone Windows executable for testin
 
 ## How to Test the App
 
-1. **Onboarding:** Launch the app. Enter a name, select your gender, set mission duration to "15" days, and set an alarm time.
-2. **Upload Data:** Go to the Settings page. Use the + buttons to upload real `.xlsx` or `.csv` files. You can use the sample files provided in the `/sample_data` folder of this repository.
-3. **View Dashboard:** Return to the Dashboard. You will see charts populated with the uploaded data. Use the red DAY button to toggle between different mission days.
-4. **Trigger AI:** Click the "Gibby Buddy insights..." box on the left to ask the AI to analyze your data.
-5. **Test Alarm:** Go to Settings -> Time & Date. Use the "SET ALARM TO +1 MINUTE" button to test the visual pop-up alarm.
+1. **Download Sample Data:** Click this link to download the sample data ZIP: **[sample_data.zip](https://github.com/weepymeefy/gibbous/blob/main/sample_data.zip)**. 
+   *(Important: On that GitHub page, click the **"Download raw file"** button in the top right corner to download the actual `.zip` file, then extract it).*
+2. **Onboarding:** Launch the app. Enter a name, select your gender, set mission duration to "30" days, and set an alarm time.
+3. **Upload Data:** Go to the Settings page. Use the `+` buttons to upload the real `.xlsx` or `.csv` files you extracted from the sample data ZIP.
+4. **View Dashboard:** Return to the Dashboard. You will see charts populated with the uploaded data. Use the red DAY button to toggle between different mission days.
+5. **Trigger AI:** Click the "Gibby Buddy insights..." box on the left to ask the AI to analyze your data.
+6. **Test Alarm:** Go to Settings -> Time & Date. Use the "SET ALARM TO +1 MINUTE" button to test the visual pop-up alarm.
 
 ---
 
@@ -127,4 +129,4 @@ The data structures and simulated metrics in this project were modeled after the
 This project was built for the NASA Space Apps Challenge. 
 
 *   **Lead Developer:** Miftah
-*   **Designer:** Ahnaf# 
+*   **Designer:** Ahnaf
