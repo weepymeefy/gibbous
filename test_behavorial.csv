@@ -1,0 +1,31 @@
+Mission Day,Date,Mood Text,Cognitive Score,Voice Stress Level
+0,2026-01-01,Feeling optimistic and excited for the mission,96,Low
+1,2026-01-02,Adjusting well to the space environment,94,Low
+2,2026-01-03,Feeling energetic and focused on tasks,93,Low
+3,2026-01-04,Slightly fatigued after equipment checks,89,Medium
+4,2026-01-05,Enjoying the view of Earth today,95,Low
+5,2026-01-06,Missing home but staying motivated,88,Medium
+6,2026-01-07,Feeling productive and confident,94,Low
+7,2026-01-08,Experiencing mild frustration with routine tasks,85,Medium
+8,2026-01-09,Calm and focused during experiments,92,Low
+9,2026-01-10,Slightly anxious about upcoming EVA,84,High
+10,2026-01-11,Feeling prepared and confident for EVA,91,Medium
+11,2026-01-12,Proud of successful EVA completion,96,Low
+12,2026-01-13,Physically tired but emotionally positive,87,Medium
+13,2026-01-14,Missing family and familiar surroundings,82,Medium
+14,2026-01-15,Feeling isolated but maintaining focus,80,High
+15,2026-01-16,Mood improving after communication with family,91,Low
+16,2026-01-17,Feeling motivated by scientific progress,94,Low
+17,2026-01-18,Irritable due to disrupted sleep schedule,78,High
+18,2026-01-19,Clear headed and ready for daily operations,92,Low
+19,2026-01-20,Experiencing moderate fatigue and stress,81,Medium
+20,2026-01-21,Feeling calm after completing maintenance,90,Low
+21,2026-01-22,Frustrated by minor equipment problems,83,Medium
+22,2026-01-23,Feeling proud of mission accomplishments,96,Low
+23,2026-01-24,Somewhat homesick but emotionally stable,86,Medium
+24,2026-01-25,Feeling refreshed after adequate rest,95,Low
+25,2026-01-26,Anxious about approaching mission milestones,82,High
+26,2026-01-27,Feeling confident and mentally prepared,93,Low
+27,2026-01-28,Slightly exhausted but remaining positive,85,Medium
+28,2026-01-29,Reflecting positively on mission progress,96,Low
+29,2026-01-30,Feeling accomplished and ready for return,98,Low

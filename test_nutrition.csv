@@ -1,0 +1,91 @@
+Mission Day,Time (GMT),Space Food Item,Calories (kcal),Protein (g),Carbs (g),Fat (g),Fiber (g),Sodium (mg),Potassium (mg),Calcium (mg),Magnesium (mg),Iron (mg),Zinc (mg),Vit A (mcg RAE),Vit C (mg),Vit D (mcg),Vit E (mg)
+0,08:00:00,Freeze-dried scrambled eggs with whole-grain tortilla,480,28,48,19,6,720,510,180,65,3.8,3.2,220,12,4.0,3.5
+0,12:00:00,Freeze-dried chicken and rice with vegetables,620,38,72,18,7,850,680,210,85,4.5,4.0,310,25,5.0,4.2
+0,18:00:00,Freeze-dried salmon with quinoa and spinach,540,36,52,21,8,690,760,240,95,5.2,3.8,280,32,6.5,5.0
+1,08:00:00,Greek yogurt with granola and berries,460,24,62,13,7,380,520,260,75,2.1,2.8,180,18,3.5,3.0
+1,12:00:00,Chicken breast with couscous and green beans,610,42,68,17,8,790,710,190,90,4.2,3.9,250,22,4.8,4.1
+1,18:00:00,Beef and lentil stew with brown rice,590,39,64,19,10,740,820,220,105,5.8,4.5,210,16,5.2,4.6
+2,08:00:00,Oatmeal with almonds and dried blueberries,450,16,68,14,9,290,480,180,95,3.1,2.6,120,8,2.8,4.2
+2,12:00:00,Turkey meatballs with whole-wheat pasta,630,40,76,18,8,820,690,200,88,4.6,4.1,230,20,4.5,3.8
+2,18:00:00,Vegetable curry with chickpeas and basmati rice,570,22,83,16,12,680,850,210,110,5.5,3.2,280,30,3.8,4.8
+3,08:00:00,Whole-grain pancakes with peanut butter and banana,490,19,66,17,8,340,560,160,85,2.8,2.4,90,10,2.5,4.0
+3,12:00:00,Beef strips with barley and roasted vegetables,640,41,70,21,9,860,730,190,100,5.9,4.7,260,18,5.0,4.5
+3,18:00:00,Vegetarian lasagna with spinach and ricotta,580,29,67,22,7,750,640,310,90,4.2,3.6,320,24,4.2,4.7
+4,08:00:00,Fortified oatmeal with raisins and walnuts,470,17,65,16,8,310,490,190,105,3.4,2.5,110,6,3.0,4.5
+4,12:00:00,Teriyaki chicken with brown rice and broccoli,630,40,75,16,7,810,720,180,90,4.3,3.8,280,35,4.5,3.9
+4,18:00:00,Salmon with mashed potatoes and peas,570,37,55,22,7,720,780,170,85,5.0,3.7,250,28,6.0,4.8
+5,08:00:00,Cheese omelet with whole-grain toast,490,27,45,21,5,650,430,260,50,3.2,3.1,190,8,3.8,2.9
+5,12:00:00,Beef and vegetable barley stew,610,38,69,18,9,830,760,160,95,5.7,4.4,230,20,4.2,4.1
+5,18:00:00,Chicken fajita rice bowl with black beans,620,41,72,17,11,780,810,190,105,5.0,4.0,210,32,4.0,4.5
+6,08:00:00,Blueberry oatmeal with fortified milk,440,18,67,12,8,280,510,240,90,3.0,2.6,160,12,3.5,3.2
+6,12:00:00,Tuna pasta with spinach and tomato sauce,590,39,66,17,7,760,690,200,80,4.8,4.1,240,26,5.5,3.8
+6,18:00:00,Chickpea and vegetable couscous,560,23,79,15,12,670,830,220,115,5.4,3.3,290,28,3.6,4.9
+7,08:00:00,Whole-grain cereal with milk and almonds,460,19,61,15,7,350,470,280,75,3.1,2.8,170,5,3.2,3.6
+7,12:00:00,Roasted turkey with sweet potato and green beans,600,42,65,16,9,790,850,170,95,4.5,4.2,320,30,4.6,4.0
+7,18:00:00,Beef chili with kidney beans and brown rice,640,40,73,19,12,820,880,190,110,6.0,4.8,180,24,4.8,4.5
+8,08:00:00,Peanut butter oatmeal with banana,480,18,69,17,9,320,620,150,100,3.2,2.5,80,10,2.5,4.1
+8,12:00:00,Chicken curry with lentils and basmati rice,630,39,78,16,10,810,790,210,105,5.2,4.0,260,25,4.4,4.2
+8,18:00:00,Baked cod with quinoa and roasted carrots,550,38,57,17,8,680,760,190,90,4.6,3.5,350,22,5.8,3.7
+9,08:00:00,Spinach and cheese breakfast wrap,470,25,48,18,6,620,490,230,65,3.5,3.0,260,18,3.6,3.1
+9,12:00:00,Turkey and vegetable whole-grain pasta,610,41,71,16,9,780,720,190,90,4.7,4.1,220,28,4.5,4.0
+9,18:00:00,Beef meatballs with tomato couscous,620,40,68,20,8,850,750,180,95,5.8,4.6,210,20,4.9,4.4
+10,08:00:00,Apple cinnamon oatmeal with walnuts,450,15,66,15,8,290,480,170,95,3.0,2.4,60,5,2.8,4.3
+10,12:00:00,Grilled chicken with quinoa and broccoli,600,43,63,17,9,760,780,210,100,4.8,4.0,300,38,4.7,4.2
+10,18:00:00,Vegetable and lentil stew with whole-grain bread,570,25,76,15,13,710,850,230,115,5.9,3.6,240,26,3.5,4.8
+11,08:00:00,Fortified cereal with milk and dried apricots,460,20,70,11,7,330,520,290,65,4.0,3.0,180,10,3.5,2.8
+11,12:00:00,Salmon with brown rice and asparagus,620,39,65,21,7,730,810,190,95,5.1,4.0,270,32,6.2,4.9
+11,18:00:00,Chicken and black bean burrito bowl,630,42,74,17,11,840,860,210,110,5.4,4.3,190,29,4.5,4.3
+12,08:00:00,Scrambled eggs with spinach and toast,470,27,46,19,6,640,470,220,60,3.6,3.2,280,16,4.0,3.0
+12,12:00:00,Turkey meatloaf with mashed sweet potato,590,40,62,17,8,790,820,180,85,4.5,4.1,330,24,4.8,4.2
+12,18:00:00,Chickpea curry with brown rice,580,24,82,15,13,700,870,220,120,5.7,3.5,270,31,3.9,4.7
+13,08:00:00,Almond granola with fortified yogurt,450,21,58,15,7,340,450,270,80,2.8,2.7,160,9,3.6,3.4
+13,12:00:00,Beef strips with quinoa and green vegetables,640,42,68,21,8,850,780,190,105,6.1,4.8,240,27,5.0,4.6
+13,18:00:00,Chicken and vegetable noodle casserole,590,38,70,16,8,770,710,200,85,4.4,3.9,230,23,4.3,3.8
+14,08:00:00,Banana pancakes with fortified milk,480,20,69,15,6,350,560,230,75,2.9,2.6,110,12,3.2,3.5
+14,12:00:00,Tuna and chickpea rice bowl,600,39,72,16,10,760,820,210,100,5.2,4.0,260,25,5.4,4.1
+14,18:00:00,Roasted turkey with barley and carrots,610,43,67,17,9,800,790,180,95,4.8,4.4,310,20,4.6,4.3
+15,08:00:00,Whole-grain waffles with peanut butter,490,19,64,18,7,370,510,170,85,3.1,2.5,75,8,2.8,4.0
+15,12:00:00,Chicken parmesan with whole-wheat pasta,650,44,73,21,8,870,740,280,95,4.9,4.2,300,24,5.0,4.5
+15,18:00:00,Salmon quinoa bowl with spinach,570,38,55,22,9,710,800,230,100,5.3,3.9,290,34,6.4,5.1
+16,08:00:00,Blueberry yogurt with oat cereal,450,22,60,13,6,320,490,250,70,2.5,2.6,150,15,3.2,3.0
+16,12:00:00,Turkey chili with kidney beans,610,42,68,17,12,820,870,200,115,5.6,4.5,220,27,4.7,4.4
+16,18:00:00,Beef and vegetable rice casserole,630,41,72,19,8,840,760,190,100,5.8,4.7,250,22,4.9,4.3
+17,08:00:00,Cheese and vegetable breakfast omelet,460,26,42,20,5,610,460,250,55,3.4,3.1,230,20,3.8,3.0
+17,12:00:00,Grilled chicken with sweet potato and peas,600,42,66,16,9,770,850,180,90,4.6,4.0,310,32,4.5,4.1
+17,18:00:00,Lentil pasta with tomato and spinach sauce,580,27,79,14,13,720,840,220,110,5.8,3.7,280,29,3.7,4.6
+18,08:00:00,Oatmeal with dried figs and almonds,470,17,67,16,9,300,540,190,105,3.5,2.7,95,6,2.9,4.6
+18,12:00:00,Salmon with couscous and broccoli,610,39,66,20,8,740,790,200,95,5.0,4.1,270,36,6.0,4.8
+18,18:00:00,Turkey and black bean stew with rice,620,41,73,16,11,810,880,210,105,5.3,4.3,230,26,4.6,4.2
+19,08:00:00,Fortified cereal with banana and milk,460,19,72,11,7,340,590,280,70,3.6,2.8,160,10,3.4,2.9
+19,12:00:00,Beef and vegetable quinoa bowl,630,42,68,20,9,850,770,190,100,6.0,4.7,240,24,5.0,4.5
+19,18:00:00,Chicken and lentil curry with brown rice,610,40,74,16,12,790,860,220,115,5.6,4.1,260,28,4.4,4.3
+20,08:00:00,Peanut butter banana oatmeal,480,18,70,16,9,330,620,160,100,3.2,2.6,70,11,2.6,4.2
+20,12:00:00,Roasted turkey with quinoa and green beans,590,42,62,16,8,780,750,190,90,4.6,4.2,270,30,4.5,4.0
+20,18:00:00,Baked salmon with sweet potato and spinach,600,39,58,23,9,720,830,220,105,5.2,4.0,310,35,6.5,5.0
+21,08:00:00,Whole-grain cereal with yogurt and berries,450,21,63,12,7,310,510,260,75,2.7,2.8,170,20,3.5,3.2
+21,12:00:00,Chicken fajita bowl with brown rice,620,41,73,17,10,810,820,200,100,4.9,4.1,240,34,4.6,4.2
+21,18:00:00,Beef and kidney bean chili,640,40,72,20,12,850,890,190,115,6.2,4.8,210,25,5.0,4.6
+22,08:00:00,Spinach and cheese egg wrap,470,27,45,19,6,630,480,240,65,3.5,3.2,260,18,3.9,3.1
+22,12:00:00,Tuna with whole-grain pasta and vegetables,600,40,70,16,8,770,730,210,85,4.8,4.2,250,28,5.8,4.0
+22,18:00:00,Chickpea and vegetable curry with quinoa,570,23,78,16,13,690,860,230,120,5.9,3.6,290,32,3.8,4.9
+23,08:00:00,Apple cinnamon granola with fortified milk,460,18,68,13,8,330,530,270,85,3.2,2.7,150,8,3.4,3.3
+23,12:00:00,Roasted chicken with barley and broccoli,610,43,67,17,9,790,780,210,95,4.9,4.2,290,35,4.8,4.3
+23,18:00:00,Salmon and lentil rice bowl,620,40,65,21,10,760,850,230,110,5.6,4.0,280,30,6.3,4.9
+24,08:00:00,Whole-grain pancakes with berry compote,470,18,70,14,7,350,520,180,80,2.8,2.5,100,18,2.7,3.8
+24,12:00:00,Turkey meatballs with couscous and carrots,610,41,69,17,8,800,760,190,95,4.7,4.3,320,26,4.6,4.1
+24,18:00:00,Beef and vegetable stew with brown rice,630,40,71,19,10,840,820,200,105,5.9,4.6,230,22,5.0,4.4
+25,08:00:00,Almond oatmeal with dried cranberries,450,16,66,14,9,300,500,190,100,3.4,2.6,90,5,2.8,4.4
+25,12:00:00,Chicken and black bean whole-grain burrito,640,43,75,18,11,850,870,220,110,5.2,4.3,210,30,4.7,4.5
+25,18:00:00,Baked cod with quinoa and roasted vegetables,560,39,58,17,8,700,790,200,95,4.8,3.8,300,27,5.9,4.0
+26,08:00:00,Fortified yogurt with granola and banana,480,23,67,13,7,360,560,280,80,2.8,2.9,170,12,3.7,3.4
+26,12:00:00,Beef strips with whole-grain pasta,640,42,73,20,8,860,780,190,100,6.1,4.8,250,20,5.1,4.6
+26,18:00:00,Vegetable lentil stew with barley,570,26,77,14,13,720,880,230,120,6.0,3.8,260,29,3.8,4.8
+27,08:00:00,Scrambled eggs with fortified toast,470,27,48,18,6,650,490,230,60,3.5,3.3,210,10,4.0,3.2
+27,12:00:00,Salmon with brown rice and green beans,620,40,66,21,8,750,820,210,100,5.2,4.1,290,32,6.4,5.0
+27,18:00:00,Turkey and chickpea curry with couscous,610,40,74,16,11,800,850,220,110,5.5,4.2,250,28,4.5,4.4
+28,08:00:00,Blueberry oatmeal with walnuts and milk,460,18,65,15,8,310,520,240,100,3.3,2.7,140,12,3.4,4.3
+28,12:00:00,Chicken quinoa bowl with roasted vegetables,610,43,68,16,9,780,790,210,100,4.8,4.2,280,34,4.7,4.2
+28,18:00:00,Beef chili with beans and brown rice,640,41,72,19,12,840,890,200,115,6.1,4.8,220,25,5.0,4.5
+29,08:00:00,Whole-grain cereal with fortified yogurt,450,21,62,13,7,320,500,270,80,2.9,2.8,160,14,3.6,3.3
+29,12:00:00,Roasted turkey with sweet potato and broccoli,600,42,65,16,9,790,840,190,95,4.7,4.3,320,36,4.8,4.1
+29,18:00:00,Salmon with quinoa and spinach,590,39,60,21,9,730,820,230,105,5.4,4.0,300,34,6.5,5.0

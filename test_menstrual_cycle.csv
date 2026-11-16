@@ -1,0 +1,31 @@
+Mission Day,Date,Tracking Status,Active Countermeasure,Estrogen Marker (pg/mL),Progesterone Marker (ng/mL),Symptom Log,Hemoglobin (g/dL),Plasma Iron (mcg/dL),Fluid Balance (ml),Operational Impact
+0,2026-01-01,Active,Daily cycle monitoring,42,0.4,No symptoms,13.2,96,2450,None
+1,2026-01-02,Active,Daily cycle monitoring,45,0.5,Mild fatigue,13.1,94,2380,Minimal
+2,2026-01-03,Active,Hydration monitoring,51,0.4,Mild cramps,13.2,95,2420,Minimal
+3,2026-01-04,Active,Hydration monitoring,58,0.5,Light spotting,13.0,93,2350,Minimal
+4,2026-01-05,Active,Symptom monitoring,65,0.6,Menstrual flow moderate,13.0,92,2400,Minimal
+5,2026-01-06,Active,Iron intake monitoring,72,0.5,Menstrual flow moderate,12.9,91,2380,Minimal
+6,2026-01-07,Active,Iron intake monitoring,81,0.5,Mild cramps and fatigue,12.9,90,2410,Minimal
+7,2026-01-08,Active,Daily cycle monitoring,96,0.6,Menstrual flow decreasing,12.8,91,2440,None
+8,2026-01-09,Active,Daily cycle monitoring,112,0.7,Light spotting,12.9,93,2460,None
+9,2026-01-10,Active,Daily cycle monitoring,135,0.8,No symptoms,13.0,95,2490,None
+10,2026-01-11,Active,Daily cycle monitoring,158,0.9,Normal energy levels,13.1,97,2470,None
+11,2026-01-12,Active,Hydration monitoring,185,1.0,No symptoms,13.2,98,2500,None
+12,2026-01-13,Active,Daily cycle monitoring,215,1.1,Increased energy,13.2,99,2480,None
+13,2026-01-14,Active,Daily cycle monitoring,245,1.2,Mild bloating,13.1,97,2450,None
+14,2026-01-15,Active,Daily cycle monitoring,270,1.3,Possible ovulation discomfort,13.2,98,2510,Minimal
+15,2026-01-16,Active,Symptom monitoring,225,2.1,Mild pelvic discomfort,13.1,96,2460,Minimal
+16,2026-01-17,Active,Daily cycle monitoring,190,3.5,No symptoms,13.2,97,2490,None
+17,2026-01-18,Active,Daily cycle monitoring,165,5.2,Normal energy levels,13.1,95,2470,None
+18,2026-01-19,Active,Hydration monitoring,150,7.1,Mild bloating,13.0,94,2440,None
+19,2026-01-20,Active,Daily cycle monitoring,142,8.5,No symptoms,13.1,96,2500,None
+20,2026-01-21,Active,Daily cycle monitoring,155,9.8,Increased appetite,13.0,95,2460,None
+21,2026-01-22,Active,Symptom monitoring,168,11.2,Mild breast tenderness,13.1,94,2480,None
+22,2026-01-23,Active,Hydration monitoring,175,12.5,Bloating and mild fatigue,13.0,93,2420,Minimal
+23,2026-01-24,Active,Symptom monitoring,160,11.8,Increased appetite and fatigue,13.0,92,2400,Minimal
+24,2026-01-25,Active,Hydration monitoring,145,9.5,Mild headache,13.1,94,2450,Minimal
+25,2026-01-26,Active,Symptom monitoring,125,7.2,Low energy and bloating,13.0,93,2390,Minimal
+26,2026-01-27,Active,Hydration monitoring,105,5.1,Mood changes and fatigue,13.1,92,2430,Minimal
+27,2026-01-28,Active,Daily cycle monitoring,82,3.2,Mild cramps,13.0,91,2410,Minimal
+28,2026-01-29,Active,Daily cycle monitoring,65,1.8,Premenstrual symptoms,13.1,93,2460,Minimal
+29,2026-01-30,Active,Daily cycle monitoring,48,0.8,Mild cramps and spotting,13.0,92,2400,Minimal

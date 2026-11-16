@@ -1,0 +1,241 @@
+Mission Day,Date,Start Time (GMT),End Time (GMT),Steps,Calories Burned (kcal),Floor Ascent Equiv,Activity Intensity,METs,Operational Context
+0,2026-01-01,00:00:00,01:00:00,12,48,0,Resting,1.0,Sleep
+0,2026-01-01,01:00:00,02:00:00,8,45,0,Resting,1.0,Sleep
+0,2026-01-01,02:00:00,03:00:00,5,43,0,Resting,1.0,Sleep
+0,2026-01-01,03:00:00,04:00:00,18,47,0,Resting,1.1,Sleep
+0,2026-01-01,04:00:00,05:00:00,15,46,0,Resting,1.0,Sleep
+0,2026-01-01,05:00:00,06:00:00,35,52,0,Light,Morning awakening
+0,2026-01-01,06:00:00,07:00:00,125,78,1,Moderate,Morning hygiene
+0,2026-01-01,07:00:00,08:00:00,210,135,2,Vigorous,Resistance exercise
+0,2026-01-01,08:00:00,09:00:00,175,118,1,Vigorous,Treadmill exercise
+0,2026-01-01,09:00:00,10:00:00,85,82,0,Light,Breakfast
+0,2026-01-01,10:00:00,11:00:00,110,76,1,Light,Scientific work
+0,2026-01-01,11:00:00,12:00:00,145,91,1,Moderate,Experiment setup
+0,2026-01-01,12:00:00,13:00:00,190,105,2,Moderate,Equipment maintenance
+0,2026-01-01,13:00:00,14:00:00,65,72,0,Light,Lunch
+0,2026-01-01,14:00:00,15:00:00,95,75,1,Light,Experiment monitoring
+0,2026-01-01,15:00:00,16:00:00,155,98,1,Moderate,Scientific analysis
+0,2026-01-01,16:00:00,17:00:00,230,142,2,Vigorous,Resistance exercise
+0,2026-01-01,17:00:00,18:00:00,130,88,1,Moderate,Maintenance
+0,2026-01-01,18:00:00,19:00:00,70,73,0,Light,Dinner
+0,2026-01-01,19:00:00,20:00:00,105,79,1,Light,Ground communication
+0,2026-01-01,20:00:00,21:00:00,45,58,0,Light,Leisure
+0,2026-01-01,21:00:00,22:00:00,20,49,0,Resting,Sleep preparation
+0,2026-01-01,22:00:00,23:00:00,8,45,0,Resting,Sleep
+0,2026-01-01,23:00:00,24:00:00,6,44,0,Resting,Sleep
+1,2026-01-02,00:00:00,01:00:00,10,46,0,Resting,Sleep
+1,2026-01-02,01:00:00,02:00:00,7,44,0,Resting,Sleep
+1,2026-01-02,02:00:00,03:00:00,14,47,0,Resting,Sleep
+1,2026-01-02,03:00:00,04:00:00,20,49,0,Resting,Sleep
+1,2026-01-02,04:00:00,05:00:00,12,46,0,Resting,Sleep
+1,2026-01-02,05:00:00,06:00:00,42,56,0,Light,Morning awakening
+1,2026-01-02,06:00:00,07:00:00,145,86,1,Moderate,Morning hygiene
+1,2026-01-02,07:00:00,08:00:00,245,148,2,Vigorous,Treadmill exercise
+1,2026-01-02,08:00:00,09:00:00,160,112,1,Vigorous,Resistance exercise
+1,2026-01-02,09:00:00,10:00:00,95,85,0,Light,Breakfast
+1,2026-01-02,10:00:00,11:00:00,125,82,1,Light,Scientific work
+1,2026-01-02,11:00:00,12:00:00,170,101,1,Moderate,Experiment monitoring
+1,2026-01-02,12:00:00,13:00:00,205,112,2,Moderate,Storage inspection
+1,2026-01-02,13:00:00,14:00:00,78,76,0,Light,Lunch
+1,2026-01-02,14:00:00,15:00:00,115,81,1,Light,Navigation review
+1,2026-01-02,15:00:00,16:00:00,150,95,1,Moderate,Data analysis
+1,2026-01-02,16:00:00,17:00:00,220,138,2,Vigorous,Resistance exercise
+1,2026-01-02,17:00:00,18:00:00,140,91,1,Moderate,Equipment maintenance
+1,2026-01-02,18:00:00,19:00:00,75,74,0,Light,Dinner
+1,2026-01-02,19:00:00,20:00:00,115,82,1,Light,Personal communication
+1,2026-01-02,20:00:00,21:00:00,55,60,0,Light,Reading
+1,2026-01-02,21:00:00,22:00:00,25,51,0,Resting,Sleep preparation
+1,2026-01-02,22:00:00,23:00:00,9,45,0,Resting,Sleep
+1,2026-01-02,23:00:00,24:00:00,7,44,0,Resting,Sleep
+2,2026-01-03,00:00:00,01:00:00,9,45,0,Resting,Sleep
+2,2026-01-03,01:00:00,02:00:00,11,46,0,Resting,Sleep
+2,2026-01-03,02:00:00,03:00:00,16,48,0,Resting,Sleep
+2,2026-01-03,03:00:00,04:00:00,8,44,0,Resting,Sleep
+2,2026-01-03,04:00:00,05:00:00,19,49,0,Resting,Sleep
+2,2026-01-03,05:00:00,06:00:00,48,58,0,Light,Morning awakening
+2,2026-01-03,06:00:00,07:00:00,135,83,1,Moderate,Morning hygiene
+2,2026-01-03,07:00:00,08:00:00,195,126,2,Vigorous,Resistance exercise
+2,2026-01-03,08:00:00,09:00:00,185,122,1,Vigorous,Treadmill exercise
+2,2026-01-03,09:00:00,10:00:00,88,83,0,Light,Breakfast
+2,2026-01-03,10:00:00,11:00:00,140,89,1,Moderate,Lab work
+2,2026-01-03,11:00:00,12:00:00,155,96,1,Moderate,Sample collection
+2,2026-01-03,12:00:00,13:00:00,215,116,2,Moderate,Equipment maintenance
+2,2026-01-03,13:00:00,14:00:00,72,74,0,Light,Lunch
+2,2026-01-03,14:00:00,15:00:00,108,80,1,Light,Data review
+2,2026-01-03,15:00:00,16:00:00,165,102,1,Moderate,Scientific work
+2,2026-01-03,16:00:00,17:00:00,250,152,2,Vigorous,Exercise session
+2,2026-01-03,17:00:00,18:00:00,125,87,1,Moderate,Maintenance
+2,2026-01-03,18:00:00,19:00:00,80,76,0,Light,Dinner
+2,2026-01-03,19:00:00,20:00:00,100,78,1,Light,Ground communication
+2,2026-01-03,20:00:00,21:00:00,60,62,0,Light,Leisure
+2,2026-01-03,21:00:00,22:00:00,28,52,0,Resting,Sleep preparation
+2,2026-01-03,22:00:00,23:00:00,8,45,0,Resting,Sleep
+2,2026-01-03,23:00:00,24:00:00,6,43,0,Resting,Sleep
+3,2026-01-04,00:00:00,01:00:00,13,47,0,Resting,Sleep
+3,2026-01-04,01:00:00,02:00:00,8,44,0,Resting,Sleep
+3,2026-01-04,02:00:00,03:00:00,10,45,0,Resting,Sleep
+3,2026-01-04,03:00:00,04:00:00,21,50,0,Resting,Sleep
+3,2026-01-04,04:00:00,05:00:00,15,47,0,Resting,Sleep
+3,2026-01-04,05:00:00,06:00:00,52,60,0,Light,Morning awakening
+3,2026-01-04,06:00:00,07:00:00,155,91,1,Moderate,Morning hygiene
+3,2026-01-04,07:00:00,08:00:00,265,158,2,Vigorous,Treadmill exercise
+3,2026-01-04,08:00:00,09:00:00,175,119,1,Vigorous,Resistance exercise
+3,2026-01-04,09:00:00,10:00:00,92,84,0,Light,Breakfast
+3,2026-01-04,10:00:00,11:00:00,105,75,1,Light,Flight systems review
+3,2026-01-04,11:00:00,12:00:00,180,105,1,Moderate,Science experiment
+3,2026-01-04,12:00:00,13:00:00,200,110,2,Moderate,Maintenance
+3,2026-01-04,13:00:00,14:00:00,85,78,0,Light,Lunch
+3,2026-01-04,14:00:00,15:00:00,120,84,1,Light,Observation task
+3,2026-01-04,15:00:00,16:00:00,175,105,1,Moderate,Data processing
+3,2026-01-04,16:00:00,17:00:00,235,145,2,Vigorous,Exercise session
+3,2026-01-04,17:00:00,18:00:00,135,89,1,Moderate,Equipment checks
+3,2026-01-04,18:00:00,19:00:00,76,75,0,Light,Dinner
+3,2026-01-04,19:00:00,20:00:00,110,81,1,Light,Communication
+3,2026-01-04,20:00:00,21:00:00,50,59,0,Light,Leisure
+3,2026-01-04,21:00:00,22:00:00,30,53,0,Resting,Sleep preparation
+3,2026-01-04,22:00:00,23:00:00,10,46,0,Resting,Sleep
+3,2026-01-04,23:00:00,24:00:00,7,44,0,Resting,Sleep
+4,2026-01-05,00:00:00,01:00:00,11,46,0,Resting,Sleep
+4,2026-01-05,01:00:00,02:00:00,14,48,0,Resting,Sleep
+4,2026-01-05,02:00:00,03:00:00,18,49,0,Resting,Sleep
+4,2026-01-05,03:00:00,04:00:00,9,44,0,Resting,Sleep
+4,2026-01-05,04:00:00,05:00:00,16,48,0,Resting,Sleep
+4,2026-01-05,05:00:00,06:00:00,55,62,0,Light,Morning awakening
+4,2026-01-05,06:00:00,07:00:00,148,88,1,Moderate,Morning hygiene
+4,2026-01-05,07:00:00,08:00:00,225,140,2,Vigorous,Resistance exercise
+4,2026-01-05,08:00:00,09:00:00,195,128,1,Vigorous,Treadmill exercise
+4,2026-01-05,09:00:00,10:00:00,100,87,0,Light,Breakfast
+4,2026-01-05,10:00:00,11:00:00,130,84,1,Moderate,Scientific work
+4,2026-01-05,11:00:00,12:00:00,165,99,1,Moderate,Research activity
+4,2026-01-05,12:00:00,13:00:00,220,118,2,Moderate,Equipment maintenance
+4,2026-01-05,13:00:00,14:00:00,80,77,0,Light,Lunch
+4,2026-01-05,14:00:00,15:00:00,115,82,1,Light,Experiment
+4,2026-01-05,15:00:00,16:00:00,185,109,1,Moderate,Data analysis
+4,2026-01-05,16:00:00,17:00:00,245,150,2,Vigorous,Exercise session
+4,2026-01-05,17:00:00,18:00:00,145,93,1,Moderate,Maintenance
+4,2026-01-05,18:00:00,19:00:00,85,79,0,Light,Dinner
+4,2026-01-05,19:00:00,20:00:00,120,84,1,Light,Ground communication
+4,2026-01-05,20:00:00,21:00:00,58,61,0,Light,Leisure
+4,2026-01-05,21:00:00,22:00:00,32,54,0,Resting,Sleep preparation
+4,2026-01-05,22:00:00,23:00:00,11,46,0,Resting,Sleep
+4,2026-01-05,23:00:00,24:00:00,8,44,0,Resting,Sleep
+5,2026-01-06,00:00:00,01:00:00,16,49,0,Resting,Sleep
+5,2026-01-06,01:00:00,02:00:00,10,45,0,Resting,Sleep
+5,2026-01-06,02:00:00,03:00:00,15,48,0,Resting,Sleep
+5,2026-01-06,03:00:00,04:00:00,22,51,0,Resting,Sleep
+5,2026-01-06,04:00:00,05:00:00,12,46,0,Resting,Sleep
+5,2026-01-06,05:00:00,06:00:00,60,64,0,Light,Morning awakening
+5,2026-01-06,06:00:00,07:00:00,165,95,1,Moderate,Morning hygiene
+5,2026-01-06,07:00:00,08:00:00,280,165,2,Vigorous,Treadmill exercise
+5,2026-01-06,08:00:00,09:00:00,205,134,1,Vigorous,Resistance exercise
+5,2026-01-06,09:00:00,10:00:00,105,89,0,Light,Breakfast
+5,2026-01-06,10:00:00,11:00:00,145,91,1,Moderate,Scientific work
+5,2026-01-06,11:00:00,12:00:00,175,105,1,Moderate,Research
+5,2026-01-06,12:00:00,13:00:00,235,125,2,Moderate,Maintenance
+5,2026-01-06,13:00:00,14:00:00,90,80,0,Light,Lunch
+5,2026-01-06,14:00:00,15:00:00,125,86,1,Moderate,Experiment monitoring
+5,2026-01-06,15:00:00,16:00:00,195,114,1,Moderate,Data review
+5,2026-01-06,16:00:00,17:00:00,255,155,2,Vigorous,Exercise session
+5,2026-01-06,17:00:00,18:00:00,155,97,1,Moderate,Equipment inspection
+5,2026-01-06,18:00:00,19:00:00,90,81,0,Light,Dinner
+5,2026-01-06,19:00:00,20:00:00,125,86,1,Light,Communication
+5,2026-01-06,20:00:00,21:00:00,65,64,0,Light,Leisure
+5,2026-01-06,21:00:00,22:00:00,35,55,0,Resting,Sleep preparation
+5,2026-01-06,22:00:00,23:00:00,12,47,0,Resting,Sleep
+5,2026-01-06,23:00:00,24:00:00,9,45,0,Resting,Sleep
+6,2026-01-07,00:00:00,01:00:00,12,46,0,Resting,Sleep
+6,2026-01-07,01:00:00,02:00:00,8,44,0,Resting,Sleep
+6,2026-01-07,02:00:00,03:00:00,18,49,0,Resting,Sleep
+6,2026-01-07,03:00:00,04:00:00,11,46,0,Resting,Sleep
+6,2026-01-07,04:00:00,05:00:00,7,43,0,Resting,Sleep
+6,2026-01-07,05:00:00,06:00:00,45,57,0,Light,Morning awakening
+6,2026-01-07,06:00:00,07:00:00,138,84,1,Moderate,Morning hygiene
+6,2026-01-07,07:00:00,08:00:00,205,130,2,Vigorous,Resistance exercise
+6,2026-01-07,08:00:00,09:00:00,180,120,1,Vigorous,Treadmill exercise
+6,2026-01-07,09:00:00,10:00:00,90,83,0,Light,Breakfast
+6,2026-01-07,10:00:00,11:00:00,115,78,1,Light,Science experiment
+6,2026-01-07,11:00:00,12:00:00,160,98,1,Moderate,Research
+6,2026-01-07,12:00:00,13:00:00,210,114,2,Moderate,Equipment maintenance
+6,2026-01-07,13:00:00,14:00:00,75,75,0,Light,Lunch
+6,2026-01-07,14:00:00,15:00:00,110,81,1,Light,Observation
+6,2026-01-07,15:00:00,16:00:00,170,103,1,Moderate,Data analysis
+6,2026-01-07,16:00:00,17:00:00,240,148,2,Vigorous,Exercise
+6,2026-01-07,17:00:00,18:00:00,135,89,1,Moderate,Maintenance
+6,2026-01-07,18:00:00,19:00:00,78,76,0,Light,Dinner
+6,2026-01-07,19:00:00,20:00:00,105,79,1,Light,Ground communication
+6,2026-01-07,20:00:00,21:00:00,52,59,0,Light,Leisure
+6,2026-01-07,21:00:00,22:00:00,28,52,0,Resting,Sleep preparation
+6,2026-01-07,22:00:00,23:00:00,9,45,0,Resting,Sleep
+6,2026-01-07,23:00:00,24:00:00,6,43,0,Resting,Sleep
+7,2026-01-08,00:00:00,01:00:00,18,50,0,Resting,Sleep
+7,2026-01-08,01:00:00,02:00:00,13,47,0,Resting,Sleep
+7,2026-01-08,02:00:00,03:00:00,21,52,0,Resting,Sleep
+7,2026-01-08,03:00:00,04:00:00,9,44,0,Resting,Sleep
+7,2026-01-08,04:00:00,05:00:00,16,48,0,Resting,Sleep
+7,2026-01-08,05:00:00,06:00:00,58,63,0,Light,Morning awakening
+7,2026-01-08,06:00:00,07:00:00,160,93,1,Moderate,Morning hygiene
+7,2026-01-08,07:00:00,08:00:00,270,161,2,Vigorous,Treadmill exercise
+7,2026-01-08,08:00:00,09:00:00,190,126,1,Vigorous,Resistance exercise
+7,2026-01-08,09:00:00,10:00:00,98,86,0,Light,Breakfast
+7,2026-01-08,10:00:00,11:00:00,135,88,1,Moderate,Scientific work
+7,2026-01-08,11:00:00,12:00:00,185,108,1,Moderate,Experiment
+7,2026-01-08,12:00:00,13:00:00,225,121,2,Moderate,Maintenance
+7,2026-01-08,13:00:00,14:00:00,82,77,0,Light,Lunch
+7,2026-01-08,14:00:00,15:00:00,118,83,1,Light,Data review
+7,2026-01-08,15:00:00,16:00:00,178,107,1,Moderate,Research
+7,2026-01-08,16:00:00,17:00:00,250,153,2,Vigorous,Exercise
+7,2026-01-08,17:00:00,18:00:00,148,94,1,Moderate,Equipment checks
+7,2026-01-08,18:00:00,19:00:00,88,80,0,Light,Dinner
+7,2026-01-08,19:00:00,20:00:00,118,84,1,Light,Communication
+7,2026-01-08,20:00:00,21:00:00,60,62,0,Light,Leisure
+7,2026-01-08,21:00:00,22:00:00,33,54,0,Resting,Sleep preparation
+7,2026-01-08,22:00:00,23:00:00,11,46,0,Resting,Sleep
+7,2026-01-08,23:00:00,24:00:00,8,44,0,Resting,Sleep
+8,2026-01-09,00:00:00,01:00:00,10,45,0,Resting,Sleep
+8,2026-01-09,01:00:00,02:00:00,8,44,0,Resting,Sleep
+8,2026-01-09,02:00:00,03:00:00,14,47,0,Resting,Sleep
+8,2026-01-09,03:00:00,04:00:00,19,49,0,Resting,Sleep
+8,2026-01-09,04:00:00,05:00:00,12,46,0,Resting,Sleep
+8,2026-01-09,05:00:00,06:00:00,46,58,0,Light,Morning awakening
+8,2026-01-09,06:00:00,07:00:00,142,86,1,Moderate,Morning hygiene
+8,2026-01-09,07:00:00,08:00:00,215,135,2,Vigorous,Resistance exercise
+8,2026-01-09,08:00:00,09:00:00,188,124,1,Vigorous,Treadmill exercise
+8,2026-01-09,09:00:00,10:00:00,94,85,0,Light,Breakfast
+8,2026-01-09,10:00:00,11:00:00,125,82,1,Light,Scientific work
+8,2026-01-09,11:00:00,12:00:00,172,103,1,Moderate,Research activity
+8,2026-01-09,12:00:00,13:00:00,218,117,2,Moderate,Equipment maintenance
+8,2026-01-09,13:00:00,14:00:00,79,76,0,Light,Lunch
+8,2026-01-09,14:00:00,15:00:00,112,81,1,Light,Experiment monitoring
+8,2026-01-09,15:00:00,16:00:00,168,101,1,Moderate,Data analysis
+8,2026-01-09,16:00:00,17:00:00,238,147,2,Vigorous,Exercise session
+8,2026-01-09,17:00:00,18:00:00,138,90,1,Moderate,Maintenance
+8,2026-01-09,18:00:00,19:00:00,82,77,0,Light,Dinner
+8,2026-01-09,19:00:00,20:00:00,108,80,1,Light,Ground communication
+8,2026-01-09,20:00:00,21:00:00,56,60,0,Light,Leisure
+8,2026-01-09,21:00:00,22:00:00,29,52,0,Resting,Sleep preparation
+8,2026-01-09,22:00:00,23:00:00,10,46,0,Resting,Sleep
+8,2026-01-09,23:00:00,24:00:00,7,44,0,Resting,Sleep
+9,2026-01-10,00:00:00,01:00:00,15,48,0,Resting,Sleep
+9,2026-01-10,01:00:00,02:00:00,10,45,0,Resting,Sleep
+9,2026-01-10,02:00:00,03:00:00,17,49,0,Resting,Sleep
+9,2026-01-10,03:00:00,04:00:00,21,51,0,Resting,Sleep
+9,2026-01-10,04:00:00,05:00:00,13,47,0,Resting,Sleep
+9,2026-01-10,05:00:00,06:00:00,62,65,0,Light,Morning awakening
+9,2026-01-10,06:00:00,07:00:00,170,97,1,Moderate,Morning hygiene
+9,2026-01-10,07:00:00,08:00:00,290,170,2,Vigorous,Treadmill exercise
+9,2026-01-10,08:00:00,09:00:00,210,138,1,Vigorous,Resistance exercise
+9,2026-01-10,09:00:00,10:00:00,108,91,0,Light,Breakfast
+9,2026-01-10,10:00:00,11:00:00,150,94,1,Moderate,Science experiment
+9,2026-01-10,11:00:00,12:00:00,190,111,1,Moderate,Research
+9,2026-01-10,12:00:00,13:00:00,245,130,2,Moderate,Maintenance
+9,2026-01-10,13:00:00,14:00:00,92,81,0,Light,Lunch
+9,2026-01-10,14:00:00,15:00:00,130,88,1,Moderate,Data review
+9,2026-01-10,15:00:00,16:00:00,205,119,1,Moderate,Experiment monitoring
+9,2026-01-10,16:00:00,17:00:00,265,160,2,Vigorous,Exercise session
+9,2026-01-10,17:00:00,18:00:00,160,99,1,Moderate,Equipment inspection
+9,2026-01-10,18:00:00,19:00:00,95,83,0,Light,Dinner
+9,2026-01-10,19:00:00,20:00:00,130,88,1,Light,Communication
+9,2026-01-10,20:00:00,21:00:00,68,65,0,Light,Leisure
+9,2026-01-10,21:00:00,22:00:00,38,56,0,Resting,Sleep preparation
+9,2026-01-10,22:00:00,23:00:00,12,47,0,Resting,Sleep
+9,2026-01-10,23:00:00,24:00:00,9,45,0,Resting,Sleep
