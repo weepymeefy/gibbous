@@ -94,7 +94,7 @@ Here is the comprehensive structure of the data handled by Gibbous, including th
 
 We have compiled the application into a standalone Windows executable for easy testing.
 
-1. Go to the **[Releases Page](https://github.com/weepymeeefy/gibbous/releases/tag/v1.0.0)**.
+1. Go to the **[Releases Page](https://github.com/weepymeefy/gibbous/releases/tag/v1.0.0)**.
 2. Download the `Gibbous_Windows_Release.zip` file from the "Assets" section.
 3. Extract the ZIP file to a folder on your computer. (Ensure the executable and the accompanying `data` folder are extracted together).
 4. Double-click `gibbous.exe` to launch the app. 
